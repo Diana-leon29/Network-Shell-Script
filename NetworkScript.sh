@@ -23,3 +23,11 @@ echo "------------------"
 echo "3. Display Routing Table"
 neststat -rn
 echo "-----------------------"
+
+#Dns resolution
+
+echo "4. DNS Resolution"
+nslookup www.google.com.co
+
+echo "-----------------------"
+
